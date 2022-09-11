@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomButtons</string>
+    <string name="text_helloworld">Hello, World!</string>
+    <string name="text_aboutme_button">About Me</string>
+</resources>
